@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about about Software Engineering
   here is data abouut me and its git
   hy im using
+  work for remote
